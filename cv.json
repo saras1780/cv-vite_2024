@@ -1,0 +1,86 @@
+{
+  "personal_info": {
+    "name": "Sara Sambree",
+    "address": "Chaussée des Gaulois, 63, 1300 Wavre",
+    "phone": "0472/82.27.84",
+    "email": "sarasambree@hotmail.com",
+    "position": "Webdesigner"
+  },
+  "competences": {
+    "techniques": {
+      "webdesign": [
+        "Adobe XD",
+        "Figma",
+        "Sketch",
+        "Création de sites responsives",
+        "UX/UI"
+      ],
+      "development": [
+        "HTML5",
+        "CSS3",
+        "Notions en JavaScript",
+        "Bootstrap",
+        "WordPress"
+      ],
+      "graphisme": [
+        "Adobe Photoshop",
+        "Illustrator"
+      ]
+    },
+    "linguistiques": {
+      "francais": "Langue maternelle",
+      "anglais": "Bon niveau écrit et oral"
+    }
+  },
+  "education": [
+    {
+      "institution": "IFOSUP",
+      "years": "2023 - 2025",
+      "degree": "BES en Webdesign"
+    },
+    {
+      "institution": "Université Catholique de Louvain-La-Neuve",
+      "years": "2020 - 2023",
+      "degree": "Bachelier en logopédie"
+    },
+    {
+      "institution": "Institut Saint Jean Baptiste",
+      "years": "2014 - 2020",
+      "degree": "Option art"
+    }
+  ],
+  "experience_professionnelle": [
+    {
+      "title": "Professeure de danse",
+      "years": "Septembre 2023 - Présent",
+      "responsibilities": [
+        "Enseignement de la danse dans plusieurs écoles",
+        "Création de chorégraphies pour des spectacles et des évènements"
+      ]
+    },
+    {
+      "title": "Secteur HORECA",
+      "years": "2019 - 2024",
+      "responsibilities": [
+        "Service en salle et bar",
+        "Gestion des commandes et service clientèle"
+      ]
+    },
+    {
+      "title": "Service population - Ville de Wavre",
+      "years": "Juillet 2020 & juillet 2021",
+      "responsibilities": [
+        "Gestion administrative des demandes citoyennes",
+        "Assistance aux usagers dans les formalités administratives"
+      ]
+    },
+    {
+      "title": "Delhaize Wavre",
+      "years": "Année 2018",
+      "responsibilities": [
+        "Mise en rayon et gestion des stocks",
+        "Service à la clientèle"
+      ]
+    }
+  ]
+}
